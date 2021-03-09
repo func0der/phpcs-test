@@ -1,0 +1,10 @@
+{
+  "name": "func0der/phpcs-test",
+  "require": {
+    "php": ">=7.4",
+    "squizlabs/php_codesniffer": "^3.5.8"
+  },
+  "scripts": {
+    "cs-check": "phpcs --parallel=50"
+  }
+}
